@@ -721,7 +721,17 @@ h1, h2, span {
     border-radius: 100%;
     color:#A983D8;
   }
+  .plate3 {
+    
+    text-align: center;
+    width: 100%;
+    bottom: -5px;
 
+    top: 700px;
+
+    border-radius: 100%;
+    color:#d88383;
+  }
   .candle {
     position: relative;
     height: 50px;
